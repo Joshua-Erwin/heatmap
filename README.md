@@ -6,6 +6,7 @@ Main4 contains the equaitions and runs the simluation, displaying it as text.
 Sim2 contains the settings for the simulation
 The heat zone that it is simulating is a 30 by 30 grid.
 
+
 _______________________________________________________________
 Any setting file you make should be set up like the following.
 _______________________________________________________________
@@ -16,6 +17,7 @@ coordinates
 number of cycles
 
 refresh Rate
+
 
 _______________________________________________________________
 Explanation of the veriables.
