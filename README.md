@@ -3,7 +3,9 @@ This project is a code for simulating heat on a flat plane of a selected materia
 _______________________________________________________________
 
 Main4 contains the equaitions and runs the simluation, displaying it as text.
+
 Sim2 contains the settings for the simulation
+
 The heat zone that it is simulating is a 30 by 30 grid.
 
 
