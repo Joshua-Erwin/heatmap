@@ -25,7 +25,6 @@ using namespace std;
 
 int main ()
 {
-	//The project mentions something about it doing this automaticly, I dont remember how to do that at the moment, but will prob fix it
 	string fileName;
 
 	cout << "Enter the name of the file containing the simulation configuration" << endl;
